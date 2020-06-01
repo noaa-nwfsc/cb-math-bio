@@ -14,9 +14,9 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "NWFSC Protected Salmonid Toolbox"
+title:       "NWFSC Math Bio Toolbox"
 keywords:    "DM, VRAP"
-description: "Landing page for NWFSC Math Bio"
+description: "Landing page for NWFSC Math Bio Toolbox"
 source_link: "https://nwfsc-math-bio.github.io/"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
